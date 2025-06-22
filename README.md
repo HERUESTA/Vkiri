@@ -44,3 +44,8 @@ MVPリリース時
 
 ## ER図
 ![ER図](image.png)
+
+# 画面構成図
+https://v0.dev/chat/vtuber-video-editor-dctdG2OE1va
+
+https://v0.dev/chat/vtuber-video-app-UzKu53HRY4H
